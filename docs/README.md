@@ -1,6 +1,6 @@
 # SCALE Engine 文档地图
 
-这个目录同时包含用户指南、治理能力说明、架构参考、历史规划和推广素材。新用户应优先阅读入门入口和当前治理能力文档，历史规划仅作为背景材料。
+这个目录同时包含用户指南、治理能力说明、架构参考和历史规划。新用户应优先阅读入门入口和当前治理能力文档，历史规划仅作为背景材料。
 
 ## 新用户入口
 
@@ -96,16 +96,6 @@
 | [plans/2026-05-19-agent-engineering-os-upgrade-plan.md](plans/2026-05-19-agent-engineering-os-upgrade-plan.md) | Agent Engineering OS 升级审核稿：Context Budget、CodeGraph、Memory Brain、Skill Radar、HTML Artifact 和 Eval Harness |
 | [plans/](plans/) | 规划方案和技术方案归档 |
 | [superpowers/](superpowers/) | 外部方法论对照和计划归档 |
-
-## 推广和素材
-
-| 文档 | 说明 |
-| --- | --- |
-| [promote-article-v2.md](promote-article-v2.md) | 推广文章草稿 v2 |
-| `promote-article-v2.html` | 推广文章 HTML v2（本地生成产物，未作为主来源入库） |
-| [promote-article-v3.md](promote-article-v3.md) | 推广文章草稿 v3 |
-| `promote-article-v3.html` | 推广文章 HTML v3（本地生成产物，未作为主来源入库） |
-| [imgs/](imgs/) | 社群二维码和推广图片 |
 
 ## 维护规则
 

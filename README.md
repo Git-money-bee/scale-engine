@@ -269,34 +269,6 @@ make verify PROFILE=default
 - [docs/guides/DEVELOPMENT_WORKFLOW.md](docs/guides/DEVELOPMENT_WORKFLOW.md) — 日常开发闭环
 - [docs/workflow/README.md](docs/workflow/README.md) — 门禁、分支策略和升级入口
 
-## 社区与推广
-
-| 平台 | 链接 | 说明 |
-|------|------|------|
-| GitHub | https://github.com/hongmaple0820/scale-engine | 源码、Issues、PR |
-| Gitee | https://gitee.com/hongmaple/scale-engine | 国内镜像与反馈 |
-| npm | https://www.npmjs.com/package/@hongmaple0820/scale-engine | CLI 包下载 |
-| QQ 群 | 628043364 | 国内用户交流、问题反馈 |
-| 邮箱 | 2496155694@qq.com | 合作、反馈、建议 |
-
-<p align="center">
-  <img src="image/wechat-public.jpg" alt="SCALE Engine 微信公众号" width="220" />
-  &nbsp;&nbsp;
-  <img src="image/wechat-id-qr.webp" alt="个人微信" width="220" />
-  &nbsp;&nbsp;
-  <img src="image/feishu-group-qr.webp" alt="飞书交流群" width="220" />
-</p>
-
-## 赞赏与支持
-
-如果 SCALE Engine 节省了你的工程治理时间，或帮助你的团队把 AI Agent 工作流落到可验证、可复盘、可发版的闭环里，欢迎赞赏支持。赞赏用于持续维护、示例项目、文档、测试矩阵和社区支持。
-
-<p align="center">
-  <img src="image/wxPay.jpg" alt="微信赞赏" width="220" />
-  &nbsp;&nbsp;
-  <img src="image/zfb.jpg" alt="支付宝赞赏" width="220" />
-</p>
-
 ## License
 
 [MIT](LICENSE)
